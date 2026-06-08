@@ -1,0 +1,6 @@
+[MAIN]
+ignore = .git,__pycache__,venv,.venv,env,.env,build,dist,*.egg-info
+
+[MESSAGES CONTROL]
+disable = C0301, C0114, C0115, C0116, W0621, W3101, R0913, R0914, R0917, R0915, W0718, E1102, W0719, R0903, W0702,
+C0415, E0401
